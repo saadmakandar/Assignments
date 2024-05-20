@@ -1,0 +1,21 @@
+,,Task Management System - Product Backlog,,,
+User Story ID,User Story,Description,Effort Points,Priority,Status
+US-01,User can create a new task,  As a user I want to create a new task so that I can organize my work.,3,High,To Do
+US-02,User can assign tasks to team members,  As a user I want to assign tasks to team members so that responsibilities are clear.,5,High,To Do
+US-03,User can set deadlines for tasks,  As a user I want to set deadlines for tasks so that I can manage my time effectively.,3,Medium,To Do
+US-04,User can add descriptions and notes to tasks,  As a user I want to add descriptions and notes to tasks so that I can provide additional information.,2,Medium,To Do
+US-05,User can mark tasks as completed,  As a user I want to mark tasks as completed so that I can track my progress.,2,High,To Do
+US-06,User can filter tasks by status,  As a user I want to filter tasks by status so that I can easily find tasks based on their progress.,5,Medium,To Do
+US-07,User can prioritize tasks,  As a user I want to prioritize tasks so that I can focus on the most important ones.,3,Medium,To Do
+US-08,User can attach files to tasks,  As a user I want to attach files to tasks so that I can include relevant documents.,5,Medium,To Do
+US-09,User can comment on tasks,  As a user I want to comment on tasks so that I can provide updates and feedback.,3,Low,To Do
+US-10,User receives notifications for task updates,  As a user I want to receive notifications for task updates so that I am informed of changes.,5,High,To Do
+US-11,User can view tasks in a calendar view,  As a user I want to view tasks in a calendar view so that I can see deadlines visually.,8,High,To Do
+US-12,User can integrate tasks with external calendars,  As a user I want to integrate tasks with external calendars so that I can sync my schedules.,8,Low,To Do
+US-13,Basic performance optimization for task loading,  As a user I want basic performance optimization for task loading so that I can use the app smoothly.,3,Medium,To Do
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
